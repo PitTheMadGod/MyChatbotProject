@@ -1,0 +1,47 @@
+C:\Users\ccr\ChatProject\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccr\ChatProject\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.AssemblyInfoInputs.cache
+C:\Users\ccr\ChatProject\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.AssemblyInfo.cs
+C:\Users\ccr\ChatProject\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.csproj.CoreCompileInputs.cache
+C:\Users\ccr\ChatProject\MyChatbotProject\bin\Debug\net8.0\MyChatbotProject.exe
+C:\Users\ccr\ChatProject\MyChatbotProject\bin\Debug\net8.0\MyChatbotProject.deps.json
+C:\Users\ccr\ChatProject\MyChatbotProject\bin\Debug\net8.0\MyChatbotProject.runtimeconfig.json
+C:\Users\ccr\ChatProject\MyChatbotProject\bin\Debug\net8.0\MyChatbotProject.dll
+C:\Users\ccr\ChatProject\MyChatbotProject\bin\Debug\net8.0\MyChatbotProject.pdb
+C:\Users\ccr\ChatProject\MyChatbotProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ccr\ChatProject\MyChatbotProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ccr\ChatProject\MyChatbotProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ccr\ChatProject\MyChatbotProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ccr\ChatProject\MyChatbotProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ccr\ChatProject\MyChatbotProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ccr\ChatProject\MyChatbotProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ccr\ChatProject\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.csproj.AssemblyReference.cache
+C:\Users\ccr\ChatProject\MyChatbotProject\obj\Debug\net8.0\MyChatbo.30F81A79.Up2Date
+C:\Users\ccr\ChatProject\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.dll
+C:\Users\ccr\ChatProject\MyChatbotProject\obj\Debug\net8.0\refint\MyChatbotProject.dll
+C:\Users\ccr\ChatProject\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.pdb
+C:\Users\ccr\ChatProject\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.genruntimeconfig.cache
+C:\Users\ccr\ChatProject\MyChatbotProject\obj\Debug\net8.0\ref\MyChatbotProject.dll
+C:\Users\ccr\New folder (5)\MyChatbotProject\bin\Debug\net8.0\MyChatbotProject.exe
+C:\Users\ccr\New folder (5)\MyChatbotProject\bin\Debug\net8.0\MyChatbotProject.deps.json
+C:\Users\ccr\New folder (5)\MyChatbotProject\bin\Debug\net8.0\MyChatbotProject.runtimeconfig.json
+C:\Users\ccr\New folder (5)\MyChatbotProject\bin\Debug\net8.0\MyChatbotProject.dll
+C:\Users\ccr\New folder (5)\MyChatbotProject\bin\Debug\net8.0\MyChatbotProject.pdb
+C:\Users\ccr\New folder (5)\MyChatbotProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ccr\New folder (5)\MyChatbotProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ccr\New folder (5)\MyChatbotProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ccr\New folder (5)\MyChatbotProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ccr\New folder (5)\MyChatbotProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ccr\New folder (5)\MyChatbotProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ccr\New folder (5)\MyChatbotProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ccr\New folder (5)\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.csproj.AssemblyReference.cache
+C:\Users\ccr\New folder (5)\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccr\New folder (5)\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.AssemblyInfoInputs.cache
+C:\Users\ccr\New folder (5)\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.AssemblyInfo.cs
+C:\Users\ccr\New folder (5)\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.csproj.CoreCompileInputs.cache
+C:\Users\ccr\New folder (5)\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.sourcelink.json
+C:\Users\ccr\New folder (5)\MyChatbotProject\obj\Debug\net8.0\MyChatbo.30F81A79.Up2Date
+C:\Users\ccr\New folder (5)\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.dll
+C:\Users\ccr\New folder (5)\MyChatbotProject\obj\Debug\net8.0\refint\MyChatbotProject.dll
+C:\Users\ccr\New folder (5)\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.pdb
+C:\Users\ccr\New folder (5)\MyChatbotProject\obj\Debug\net8.0\MyChatbotProject.genruntimeconfig.cache
+C:\Users\ccr\New folder (5)\MyChatbotProject\obj\Debug\net8.0\ref\MyChatbotProject.dll
