@@ -1,0 +1,20 @@
+jobs:
+  build:
+    runs-on: windows-latest  # Ensure you're running on Windows
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup .NET Core
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.x'  # Use your project's .NET version
+
+      - name: List files (for debugging)
+        run: Get-ChildItem -Recurse
+        shell: pwsh
+
+      - name: Restore dependencies
+        run: dotnet restore MyProject.sln  # Change to your actual solution file
+        shell: cmd
