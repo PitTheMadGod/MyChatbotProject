@@ -1,0 +1,25 @@
+# Build files
+bin/
+obj/
+out/
+
+# Dependencies
+node_modules/
+packages/
+
+# User-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.log
+*.tlog
+*.vs/
+
+# Generated files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.lock
+*.config
